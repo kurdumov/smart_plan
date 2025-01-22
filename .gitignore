@@ -25,6 +25,7 @@ dist-ssr
 .env
 *.sw?
 /yarn.lock
+/package-lock.json
 
 build/
 dist/
